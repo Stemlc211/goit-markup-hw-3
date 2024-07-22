@@ -1,0 +1,234 @@
+:root{
+    --Cornflower:#E7E9FC;
+    --iris:#4D5AE5;
+    --navy-blue:#2E2F42;
+    --white:#FFFFFF;
+    --state:#434455;
+    --cloud:#F4F4FD;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: var(--state);
+    background-color: var(--white);
+}
+
+nav{
+        background-color: var(--white);
+}
+
+.logo{
+    
+    font-family:"Raleway",sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: var(--iris);
+        text-transform: uppercase;
+}
+
+.logo-text-2{
+        font-family:"Raleway",sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 21px;
+            letter-spacing: 0.03em;
+            text-align: left;
+            color: var(--navy-blue);
+}
+
+
+
+.link-logo{
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+        color: var(--navy-blue);
+}
+
+.link-logo:hover{
+    color: #404bbf;
+}
+
+.link-logo:focus{
+    color: #404bbf;
+}
+
+
+.contacts{
+    font-style: normal;
+}
+
+
+.list-contacts{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: var(--state);
+}
+
+.list-contacts:hover{
+    color: #404bbf;
+}
+
+.list-contacts:focus{
+    color: #404bbf;
+}
+
+.hero-image{
+        background-color: var(--navy-blue);
+}
+
+.hero-title{
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--white);
+}
+
+.hero-button{
+        background-color: var(--iris);
+        color: var(--white);
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        cursor: pointer;
+}
+
+.hero-button:hover{
+background-color: #404BBF;
+}
+
+
+.hero-button:focus{
+    background-color: #404BBF;
+}
+
+
+
+.point-list{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--navy-blue);
+    }
+
+
+.paragraf-list{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: var(--state);
+}
+
+.section-our-team{
+        background-color: var(--cloud);
+}
+
+.our-section{
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: var(--navy-blue);
+}
+
+.list-section-team{
+        background-color: var(--white);
+}
+
+
+.partner-team{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--navy-blue);
+}
+
+.job-name{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--state);
+}
+
+
+.name-section{
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
+        color: var(--navy-blue);
+}
+
+.list-our-1{
+    color: var(--white);
+}
+
+
+.list-our-2{
+    color: var(--white);
+}
+
+
+
+.piont-our{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: var(--navy-blue);
+}
+
+.paragraf-our{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: var(--state);
+}
+
+.footer{
+        background-color: var(--navy-blue);
+}
+
+
+.studio{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+color: #F4F4FD;
+}
+
+.footer-paragraf{
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0.02em;
+            text-align: left;
+            color: var(--cloud);
+}
